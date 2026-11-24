@@ -1,0 +1,13 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.24",
+        "monolog/monolog": "^3.12"
+    },
+    "autoload": {
+        "psr-4": {
+        "Admin\\":"src/",
+        "User\\":"src/",
+        "RegularUser\\":"src/"
+        }
+    }
+}

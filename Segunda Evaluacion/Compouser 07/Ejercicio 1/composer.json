@@ -1,0 +1,12 @@
+{
+    "name": "142ga03/ejercicio1",
+    "authors": [
+        {
+            "name": "josemiguelgallego52975",
+            "email": "josemiguel.gallego.52975@ikasle.egibide.org"
+        }
+    ],
+    "require": {
+        "phpunit/php-timer": "^8.0"
+    }
+}
